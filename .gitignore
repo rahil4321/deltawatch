@@ -20,3 +20,6 @@ coverage/
 .vscode/
 playwright-report/
 test-results/
+
+# Local monitoring data
+backend/data/
